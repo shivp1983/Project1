@@ -1,3 +1,5 @@
+/*This is the second part of the Divide and Conquer Assignment*/
+
 import java.util.Scanner;
 
 public class SolutionB {
